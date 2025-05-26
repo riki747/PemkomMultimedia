@@ -1,0 +1,4 @@
+--patch-module
+com.mycompany.multimedia=_
+--add-reads
+com.mycompany.multimedia=ALL-UNNAMED
